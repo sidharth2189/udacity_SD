@@ -1,0 +1,13 @@
+Instructions to commit project to git hub, from the workspace
+
+1) Open Terminal in Workspace
+2) Navigate to Project Repository folder
+3) Type "./set_git.sh" and enter
+4) Provide github username and email id as per prompt
+5) Type "git push -u origin master" and enter. This pushes original repository
+6) Once changes are made to files, navigate to terminal workspace.
+7) Incase environment is reopened, repeat step 3 after opening terminal and provide git hub repository details
+8) Type "git add filename" and enter
+9) Type "git commit -m "Your commit message"" and enter
+10) Type "git push -u origin master" and enter
+11) Provide github credentials

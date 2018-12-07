@@ -2,7 +2,7 @@ Instructions to commit project to git hub, from the workspace
 
 1) Open Terminal in Workspace
 2) Navigate to Project Repository folder
-3) Type "./set_git.sh" and enter
+3) Type "./set_git.sh" and enter (If permission is denied, for example in case of EKF project, type "chmod u+x set_git.sh"
 4) Provide github username and email id as per prompt
 5) Type "git push -u origin master" and enter. This pushes original repository
 6) Once changes are made to files, navigate to terminal workspace.
